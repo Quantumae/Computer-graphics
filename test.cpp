@@ -9,5 +9,6 @@ int main()
 {
 	cout << "Hello World！" << endl;
 	cout << "try for update" << endl;
+	cout << "try for download" << endl;
 	return 0;
 }
